@@ -1,0 +1,5 @@
+# cooking
+
+Bu proje sadeleştirilmiştir.
+
+
